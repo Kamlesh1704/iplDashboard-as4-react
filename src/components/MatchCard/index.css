@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.match-card {
+  height: 590px;
+  width: 385px;
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 15px;
+  padding-top: 10px;
+  border-radius: 13px;
+  margin: 46px;
+  text-align: center;
+}
+.nameteam {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  text-align: center;
+}
+.status {
+    color: white;
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.won {
+  color:  #18ed66;
+  font-size: 36px;
+  font-family: "Bree Serif";
+}
+.Lost {
+  color:  #e31a1a;
+    font-size: 36px;
+  font-family: "Bree Serif";
+}
+.logo {
+  height: 200px;
+  width: 150px;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.link {
+  display: flex;
+  align-items: center;
+  border: 2px solid white;
+  border-radius: 13px;
+  background-color: #ffffff33;
+  height: 200px;
+  width: 540px;
+  margin: 30px;
+}
+
+.li {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.img {
+  height: 180px;
+  width: 120px;
+  margin-right: 35px;
+  margin-left: 15px;
+}
+
+.teamname {
+  color: white;
+  font-size: 35px;
+  font-family: 'Bree Serif';
+}

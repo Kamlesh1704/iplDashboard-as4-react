@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.hw {
+  color: black;
+}
+.bannerImg {
+  margin-top: 70px;
+  width: 1350px;
+}
+.latest {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  padding-right: 1200px;
+  padding-top: 20px;
+}
+.divvv {
+  background-image: linear-gradient(#d91c1f, #a4261d, #1e293b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ull {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+}

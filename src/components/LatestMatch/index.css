@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.divv {
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-family: 'Bree Serif';
+  border-radius: 14px;
+  width: 1350px;
+  height: 530px;
+  margin-bottom: 10px;
+}
+.imgg {
+  width: 290px;
+}
+.competing-team {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.venue {
+  font-size: 20px;
+  padding-bottom: 12px;
+}
+.first {
+  font-size: 21px;
+}
+.innings {
+  font-size: 16px;
+}
+.div2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.div1 {
+}
